@@ -46,7 +46,7 @@ After making all required adjustments, run the code line-by-line. The actual cou
 1. Set copy number base level for all and/or indvidual autosomes.
 2. Set copy number base level for X chromosome.
 3. Set minimum segment size for partial copy number alterations
-4. Determine presence/absence of copy number alterations irrespective of exact deviation from baseline or include deviation from copy number base level and thereby count absolute number of alterations
+4. Determine presence of copy number alterations irrespective of exact deviation from baseline _or_ include deviation from copy number base level and count absolute number of alterations
 5. Collect files from Aneufinder _or_ after filtering with [AneufinderFileFilter](https://github.com/TWvR/AneufinderFileFilter)
 
 ## Final comments
